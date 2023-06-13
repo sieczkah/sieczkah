@@ -24,13 +24,25 @@ Here are some ideas to get you started:
 <h3 align="center">A Python developer based in Bilbao.</h3>
 <h3 align="center">💻 Visit my portfolio website! https://siehub.site/</h3>
 <hr>
-- 👯 I’m currently looking for software developer job, feel free to contact me via [LinkedIn](https://www.linkedin.com/in/sieczkah/) or [Mail](mailto:hl.sieczka@gmail.com)!
+
+- 👯 I’m currently looking for software developer job, feel free to contact!
+<a href="https://linkedin.com/in/sieczkah" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=socials&logo=linkedin&logoColor=white" /> </a><a href="mailto:hl.sieczka@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=socials&logo=gmail&logoColor=white" /></a>
 
 - 🔭 I’m currently working on [JobSeeker](https://github.com/sieczkah/Jobseek)
 
 - ⚡ Check out my LanguageBuddies Django project: [LanguageBuddies](https://github.com/sieczkah/LanguageBuddies), [Project Demo](https://siehy.pythonanywhere.com/)
 
 - 📫 How to reach me **hl.sieczka@gmail.com**
+- Check my Django projects:
+
+<a href="https://github.com/sieczkah/Jobseek">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sieczkah&repo=Jobseek&show_icons=true&line_height=15&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e&layout=compact" alt="Jobseek" />
+</a>
+<a href="https://github.com/sieczkah/LanguageBuddies">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sieczkah&repo=LanguageBuddies&show_icons=true&line_height=15&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Jobseek" />
+</a>
+
+- Check also my pinned repos!
 
 <hr>
 <!--  SOCIALS -->
