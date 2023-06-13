@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sieczkah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sieczkah" height="30" width="40" /></a>
+<a href="https://www.codewars.com/users/HubSie" target="blank"><img align="center" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="sieczkah" height="30" width="90" /></a>    
 <a href="https://www.leetcode.com/sieczkah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sieczkah" height="30" width="40" /></a>
 </p>
 <!-- LANGS -->
