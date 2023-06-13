@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [JobSeeker](https://github.com/sieczkah/Jobseek)
 
+- ⚡ Check out my LanguageBuddies Django project: [LanguageBuddies](https://github.com/sieczkah/LanguageBuddies), [Project Demo](https://siehy.pythonanywhere.com/)
+
 - 👨‍💻 Visit my portfolio website! [siehub.site](https://siehub.site/)
 
 - 📫 How to reach me **hl.sieczka@gmail.com**
