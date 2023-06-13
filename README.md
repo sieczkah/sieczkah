@@ -14,7 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Hubert Sieczka</h1>
+
+<div align="center">
+
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello%20my%20name%20is%20Hubert!&color=gradient)
+
+</div>
+
 <h3 align="center">A Python developer based in Bilbao.</h3>
 <h3 align="center">💻 Visit my portfolio website! https://siehub.site/</h3>
 <hr>
