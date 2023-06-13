@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Hubert Sieczka</h1>
-<h3 align="center">A python developer based in Bilbao.</h3>
+<h3 align="center">A Python developer based in Bilbao.</h3>
+
+- 👯 I’m currently looking for software developer job, feel free to contact me! [LinkedIn](https://www.linkedin.com/in/sieczkah/) [Mail](mailto:hl.sieczka@gmail.com)
 
 - 🔭 I’m currently working on [JobSeeker](https://github.com/sieczkah/Jobseek)
 
