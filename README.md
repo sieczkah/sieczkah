@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Hubert Sieczka</h1>
 <h3 align="center">A Python developer based in Bilbao.</h3>
-<h3 align="center">💻 Visit my portfolio website! [siehub.site](https://siehub.site/)</h3>
+<h3 align="center">💻 Visit my portfolio website! https://siehub.site/</h3>
 
 - 👯 I’m currently looking for software developer job, feel free to contact me via [LinkedIn](https://www.linkedin.com/in/sieczkah/) or [Mail](mailto:hl.sieczka@gmail.com)!
 
