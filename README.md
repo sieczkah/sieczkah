@@ -17,16 +17,17 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello,%20my%20name%20is%20Hubert!&color=gradient)
+![header](https://capsule-render.vercel.app/api?type=waving&color=521197&height=200&section=header&text=Hi,%20I'm%20Hubert%20Sieczka&fontSize=70&animation=fadeIn&fontAlignY=30&desc=Python%20Developer%20based%20in%20Bilbao&descAlignY=51&descAlign=62&fontColor=fff)
+
+
 
 </div>
 
-<h3 align="center">A Python developer based in Bilbao.</h3>
 <h3 align="center">💻 Visit my portfolio website! https://siehub.site/</h3>
 <hr>
 
-- 👯 I’m currently looking for software developer job, feel free to contact!
-<a href="https://linkedin.com/in/sieczkah" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=socials&logo=linkedin&logoColor=white" /> </a><a href="mailto:hl.sieczka@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=socials&logo=gmail&logoColor=white" /></a>
+<h4> 🚀 I’m looking for exciting opportunities – let's connect and make things happen!
+<a href="https://linkedin.com/in/sieczkah" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=socials&logo=linkedin&logoColor=white" /> </a><a href="mailto:hl.sieczka@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=socials&logo=gmail&logoColor=white" /></a></h4>
 
 - 🔭 I’m currently working on [JobSeeker](https://github.com/sieczkah/Jobseek)
 
