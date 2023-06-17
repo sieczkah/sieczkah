@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me **hl.sieczka@gmail.com**
 - Check my Django projects:
 
-<a href="https://github.com/sieczkah/Jobseek">
+<a href="https://github.com/sieczkah/Jobseeker">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sieczkah&repo=Jobseek&show_icons=true&line_height=15&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e&layout=compact" alt="Jobseek" />
 </a>
 <a href="https://github.com/sieczkah/LanguageBuddies">
