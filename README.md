@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 - Check my Django projects:
 
 <a href="https://github.com/sieczkah/Jobseeker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sieczkah&repo=Jobseek&show_icons=true&line_height=15&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e&layout=compact" alt="Jobseek" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?  username=sieczkah&repo=Jobseek&show_icons=true&line_height=15&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e&layout=compact&env=PAT1" alt="Jobseek" />
 </a>
 <a href="https://github.com/sieczkah/LanguageBuddies">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sieczkah&repo=LanguageBuddies&show_icons=true&line_height=15&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Jobseek" />
