@@ -36,12 +36,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me **hl.sieczka@gmail.com**
 - Check my Django projects:
 
-<a href="https://github.com/sieczkah/Jobseeker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?  username=sieczkah&repo=Jobseek&show_icons=true&line_height=15&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e&layout=compact&" alt="Jobseek" />
-</a>
-<a href="https://github.com/sieczkah/LanguageBuddies">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sieczkah&repo=LanguageBuddies&show_icons=true&line_height=15&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Jobseek" />
-</a>
+  - [JobSeeker](https://github.com/sieczkah/Jobseek) - An organizational tool aimed to make job hunting more efficient. This app allows users to track and organize job applications.
+
+  - [LanguageBuddies](https://github.com/sieczkah/LanguageBuddies) - A web app offering user-generated chat rooms for language enthusiasts to practice and interact.
 
 - Check also my pinned repos!
 
