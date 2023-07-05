@@ -31,10 +31,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [JobSeeker](https://github.com/sieczkah/Jobseek)
 
-- ⚡ Check out my LanguageBuddies Django project: [LanguageBuddies](https://github.com/sieczkah/LanguageBuddies), [Project Demo](https://siehy.pythonanywhere.com/)
-
 - 📫 How to reach me **hl.sieczka@gmail.com**
-- Check my Django projects:
+- ⚡ Check my projects:
 
   - [JobSeeker](https://github.com/sieczkah/Jobseek) - An organizational tool aimed to make job hunting more efficient. This app allows users to track and organize job applications.
 
